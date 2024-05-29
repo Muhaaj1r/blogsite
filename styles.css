@@ -1,0 +1,56 @@
+* {
+font-family: 'EB Garamond';
+}
+
+body{
+    margin: 0%;
+    background-color: #191717;
+}
+
+.topnav {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.topnav a {
+    color: #7D7C7C;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 5mm;
+    margin-right: 20mm;
+    margin-left: 20mm;
+}
+
+.Headline{
+    display: flex;
+    justify-content: center;
+    margin: 40mm;
+}
+
+#head {
+    color: #F1EFEF;
+    font-weight: 400;
+    font-size: 20mm;
+}
+
+.topnav a:hover {
+    color: #F1EFEF;
+}
+
+.Intro {
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+p {
+    color: #F1EFEF;
+    text-wrap: wrap;
+    text-align:justify;
+    font-style: normal;
+    font-size: 5mm;
+    font-weight: 200;
+    margin-right: 30px ;
+}
